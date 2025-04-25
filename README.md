@@ -220,6 +220,6 @@ Understanding the movement of data within a network is important because it help
 
 <p>
 
-Congratulations on completing this project!  I hope this tutorial has taught you how to create and connect to virtual machines within Azure, and given you better insight on how data flows across a network!
+Congratulations on successfully completing this project! I hope this tutorial has not only equipped you with the skills to create and connect to virtual machines in Azure, but also provided you with a deeper understanding of data flow within a networked environment.
   
 </p>
